@@ -1,4 +1,4 @@
-# 🌐 Bishow's One Page Portfolio
+# 🌐 My Portfolio Web
 
 A clean, colorful, and responsive **one-page developer portfolio** built with pure **HTML, CSS, and JavaScript** — no frameworks used.
 
@@ -17,7 +17,7 @@ A clean, colorful, and responsive **one-page developer portfolio** built with pu
 
 ## 🚀 Demo
 
-> 💡 [View Live Portfolio](https://github.com/BISHOW03)
+> 💡 [View Live Portfolio](https://bishow03.github.io/my-portfolio-web/)
 
 ## 🛠️ Tech Stack
 
