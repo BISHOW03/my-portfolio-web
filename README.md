@@ -18,9 +18,7 @@ A clean, colorful, and responsive **one-page developer portfolio** built with pu
 
 ## 🚀 Demo
 
-> 💡 [View Live Portfolio](https://bishow03.github.io/my-portfolio-web/)
-
-> [![Chat with Bishow Bot](https://img.shields.io/badge/💬%20Chat-Bishow%20Bot-blueviolet?style=flat-square)](https://BISHOW03.github.io)
+> [![💡 View Live Portfolio](https://img.shields.io/badge/💡%20View%20Live%20Portfolio-brightgreen?style=flat-square)](https://bishow03.github.io/my-portfolio-web/)  
 
 ## 🛠️ Tech Stack
 
