@@ -14,10 +14,13 @@ A clean, colorful, and responsive **one-page developer portfolio** built with pu
 - About Me with education & goals
 - Contact section with social links
 - Resume download (PDF)
+- Live chatbot powered by **Bishow Bot**
 
 ## 🚀 Demo
 
 > 💡 [View Live Portfolio](https://bishow03.github.io/my-portfolio-web/)
+
+> [![Chat with Bishow Bot](https://img.shields.io/badge/💬%20Chat-Bishow%20Bot-blueviolet?style=flat-square)](https://BISHOW03.github.io)
 
 ## 🛠️ Tech Stack
 
@@ -30,9 +33,8 @@ A clean, colorful, and responsive **one-page developer portfolio** built with pu
 ```bash
 git clone https://github.com/bishow03/my-portfolio-web.git
 cd my-portfolio-web
-```
 open index.html
-
+```
 
 ## 📌 Credits
 
