@@ -5,16 +5,8 @@ A clean, colorful, and responsive **one-page developer portfolio** built with pu
 🔹 Showcases my projects, skills, blog preview, and contact information  
 🔹 Includes profile image and working "Download Resume" button  
 🔹 Fully responsive and deployable on GitHub Pages or any static host
+🔹 Live chatbot powered by **Bishwa Bot**
 
-## 📁 Features
-
-- Beautiful landing section with welcome message
-- Project highlights (Web, ML, JS Tools, UI Simulators)
-- Coming-soon Blog section
-- About Me with education & goals
-- Contact section with social links
-- Resume download (PDF)
-- Live chatbot powered by **Bishow Bot**
 
 ## 🚀 Demo
 
@@ -24,19 +16,12 @@ A clean, colorful, and responsive **one-page developer portfolio** built with pu
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)
+- JavaScript
 
-## 📦 Getting Started
-
-```bash
-git clone https://github.com/bishow03/my-portfolio-web.git
-cd my-portfolio-web
-open index.html
-```
 
 ## 📌 Credits
 
-Created by **Bishow**  
+Created by **Bishwa**  
 Designed with ❤️ for self-promotion, networking, and learning.
 
 ---
